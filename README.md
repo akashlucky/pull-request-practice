@@ -1,2 +1,2 @@
 # pull-request-practice
-respository  for practicing pull request
+respository  for practicing pull request workflow
